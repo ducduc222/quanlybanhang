@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="633e2e8a-79f7-43ff-bf81-dfe785dff1f3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sapo/salemanagement/repositories/orderrepositories/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sapo/salemanagement/repositories/orderrepositories/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/sale-management/src/pages/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/sale-management/src/pages/Home/Home.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2VPyAjOaEjesuBQOk4ELE7B8Y3p" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/home/nguyenduc/Documents/thuc-tap-web-pro/2023-11-tttq-master/Backend/sale-management",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "a269133377ec4843bf1eb30d30db87cf",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sapo.salemanagement.dto.orderdtos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application">
+      <envs>
+        <env name="SPRING_DATASOURCE_URL" value="jdbc:mysql://localhost:3306/sales" />
+        <env name="DATABASE_USERNAME" value="root" />
+        <env name="DATABASE_PASSWORD" value="" />
+        <env name="SECRET_KEY" value="404E635266556A586E3272357538782F413F4428472B4B6250645367566B5970" />
+        <env name="JWT_EXPIRATION" value="86400000" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.sapo.salemanagement.SaleManagementApplication" />
+      <module name="sale-management" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaleManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sale-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sapo.salemanagement.SaleManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="633e2e8a-79f7-43ff-bf81-dfe785dff1f3" name="Changes" comment="" />
+      <created>1694751871689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694751871689</updated>
+      <workItem from="1694751874039" duration="138000" />
+      <workItem from="1694752034806" duration="80000" />
+      <workItem from="1694759502481" duration="3614000" />
+      <workItem from="1694765811448" duration="940000" />
+      <workItem from="1694769712701" duration="2990000" />
+      <workItem from="1694852617183" duration="849000" />
+      <workItem from="1694963486440" duration="694000" />
+      <workItem from="1695108162408" duration="4031000" />
+      <workItem from="1695230714617" duration="6000" />
+      <workItem from="1695476225221" duration="29768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sapo/salemanagement/services/CustomerServices/FeedbackService.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sapo/salemanagement/services/CustomerServices/FeedbackService.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sapo/salemanagement/services/CustomerServices/FeedbackService.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sale_management$SaleManagementApplication.ic" NAME="SaleManagementApplication Coverage Results" MODIFIED="1693293712419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.sapo.salemanagement.*</FILTER>
+    </SUITE>
+  </component>
+</project>
